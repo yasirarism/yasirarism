@@ -18,4 +18,5 @@
 - Facebook - [Yasir Aris Munandar](https://facebook.com/yasirarismunandar)
 - Twitter - [@yasirarism](https://twitter.com/YasirArisM)
 - Instagram - [@yasirarism](https://instagram.com/YasirArisM)
+- Telegram - [@yasirarism](https://t.me/YasirArisM)
 - Blog - [YasirPedia Blog](https://www.yasir.my.id)
