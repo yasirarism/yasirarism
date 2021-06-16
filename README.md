@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on some Telegram Bot!
 - 🌱 I’m currently learning about Python, PHP and Javascript
 - 🥅 2021 Goals: study more programming languange
-- ⚡ Fun fact: I love introvert, like playing and coded Telegram Bot 
+- ⚡ Fun fact: I introvert people, like playing and coded Telegram Bot 
 
 ### 📊 Weekly development breakdown
 
