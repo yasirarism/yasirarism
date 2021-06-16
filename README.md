@@ -3,11 +3,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yasirarism&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
 
 ### I'm a Blogger!
-- 🔭 I’m currently working on some Telegram Bot Project!
+- 🔭 I’m currently working on some Telegram Bot!
 - 🌱 I’m currently learning about Python, PHP and Javascript
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love blogging, playing and coded Telegram Bot 
+- 🥅 2021 Goals: study more programming languange
+- ⚡ Fun fact: I love introvert, like playing and coded Telegram Bot 
 
 ### 📊 Weekly development breakdown
 
