@@ -7,7 +7,7 @@
 ### I'm a Blogger and Newbie Programmer!
 - 🔭 I’m currently working on some Telegram Bot! You can view my bot in Telegram [@MissKatyRoBot](https://t.me/MissKatyRoBot)
 - 🌱 I’m currently learning about Python, PHP and Javascript
-- 🥅 2021 Goals: study more programming languange
+- 🥅 2022 Goals: study more programming languange
 - ⚡ Fun fact: I introvert people, like playing and coded Telegram Bot
 
 ## :wrench: Languages and Tools
