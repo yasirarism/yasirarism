@@ -1,6 +1,5 @@
 ## Hi there I'm Yasir Aka YasirPedia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=yasirarism&style=flat&color=d83a7c" alt="viewer" />
 
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M272W46)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yasirarism&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
@@ -25,7 +24,7 @@
 
 ### 📫 Contact Me
 - Facebook - [Yasir Aris Munandar](https://facebook.com/yasirarismunandar)
-- Twitter - [@yasirarism](https://twitter.com/YasirArisM)
+- Twitter - [https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/YasirArisM)
 - Instagram - [@yasirarism](https://instagram.com/YasirArisM)
 - Telegram - [@yasirarism](https://t.me/YasirArisM)
 - Blog - [YasirPedia Blog](https://www.yasir.my.id)
