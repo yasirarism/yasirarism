@@ -24,7 +24,7 @@
 
 ### 📫 Contact Me
 - Facebook - [Yasir Aris Munandar](https://facebook.com/yasirarismunandar)
-- ![https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/YasirArisM)
+- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 - Instagram - [@yasirarism](https://instagram.com/YasirArisM)
 - Telegram - [@yasirarism](https://t.me/YasirArisM)
 - Blog - [YasirPedia Blog](https://www.yasir.my.id)
