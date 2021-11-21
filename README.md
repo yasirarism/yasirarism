@@ -28,8 +28,12 @@
 ![ReplIt](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
 ### 📫 Social Media
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) - [Yasir Aris Munandar](https://facebook.com/yasirarismunandar)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) - [Yasir Aris](https://facebook.com/yasirarismunandar)
+
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) - [@YasirArisM](https://t.me/YasirArisM)
+
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) - [@yasirarism](https://instagram.com/YasirArisM)
+
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) - [@yasirarism](https://t.me/YasirArisM)
+
 ![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) - [YasirPedia Blog](https://www.yasir.my.id)
